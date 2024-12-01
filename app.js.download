@@ -5,7 +5,7 @@ let msgCon = document.querySelector(".msg-con ");
 let msg = document.querySelector("#msg");
 
 let turnX= true ;
-
+ 
 const winPatterns= [
     [0,1,2],
     [0,3,6],
