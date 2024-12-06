@@ -9,7 +9,7 @@ body{
     color: white; 
 } 
 
-#container{
+#container{ 
     height: 70vh;
     display: flex;
     align-items: center;
